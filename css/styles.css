@@ -29,6 +29,7 @@ font-style: normal;
 color: black;
 line-height:30px;
 font-size: medium;
+text-align: center;
 }
 .img {
 width:100%;
@@ -38,7 +39,8 @@ height:auto;
 size:20px;
 }
 .projects{
-    background-color:#3c3c3b;
-    
+    font-style: normal;
+    text-align: center;
 }
+
 
