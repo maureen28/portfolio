@@ -23,4 +23,18 @@ body {
     height: 500px;
     background-size: cover;
 }
+.about {
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+color: black;
+line-height:30px;
+font-size: medium;
+}
+.img {
+width:100%;
+display: block;
+float: left;
+height:auto;
+size:20px;
+}
 
