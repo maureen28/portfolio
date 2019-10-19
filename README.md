@@ -1,8 +1,8 @@
-#MAUREEN WAIRIMU
+# MAUREEN WAIRIMU
 
-##About
+## About
 
-##Projects
+## Projects
 
-##
+## Contacts
 

@@ -1,19 +1,26 @@
-* {
-    border:0px;
-    margin: 0rem;
-    padding: 0rem;
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Philosopher', sans-serif;
 }
-.nav{
-    color: bisque;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+#open {
+    background-color:#EFF1E8; 
+    height: 150px;
+    text-align: center;
 
 }
-
-@media screen and (min-width:480px) {
- } 
-
-.image {
-    float: inline-start;
-    max-width: width 100px;
+.home {
+    width: 800px;
+    margin-left: 500px;
+  
 }
+#cover {
+    background: url("/images/beach-coast-flip-flops-65900.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+}
+
