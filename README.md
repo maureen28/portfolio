@@ -1,13 +1,13 @@
 # RESORT
 
 ## Description
-An application that helps its' users find the perfect getaway.
+Resort; a website that helps its' users find the perfect getaway spot.
 
 By:*Maureen Wairimu*
 
 ### Technologies used
 >HTML
->cSS
+>CSS
 
 #### Setup Instruction
 To use the code, clone the repofrom https://github.com/maureen28/portfolio
