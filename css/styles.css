@@ -34,11 +34,10 @@ text-align: center;
 .img {
 width:100%;
 display: block;
-float: left;
 height:auto;
+float: left;
 size:20px;
-
-@media screen and (min-width=480px) {}
+opacity:1;
 }
 .projects{
     font-style: normal;
