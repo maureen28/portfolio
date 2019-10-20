@@ -16,11 +16,11 @@ body {
     margin-left: 500px;
   
 }
-#cover {
-    background: url("/images/beach-coast-flip-flops-65900.jpg");
+.cover {
+    background-image: url(images/beach-coast-flip-flops-65900.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    height: 500px;
+    height:800px;
     background-size: cover;
 }
 .about {
@@ -37,10 +37,19 @@ display: block;
 float: left;
 height:auto;
 size:20px;
+
+@media screen and (min-width=480px) {}
 }
 .projects{
     font-style: normal;
     text-align: center;
+    background-color: #EFF1E8;
 }
+.footer {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-size: medium;
+    text-align: center;
 
+}
 
