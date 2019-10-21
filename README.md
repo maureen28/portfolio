@@ -1,7 +1,7 @@
 # RESORT
 
 ## Description
-Resort; a website that helps its' users find the perfect getaway spot.
+Resort is a website that helps its' users find the perfect getaway spot.
 
 By:*Maureen Wairimu*
 
@@ -10,7 +10,7 @@ By:*Maureen Wairimu*
 >CSS
 
 #### Setup Instruction
-To use the code, clone the repofrom https://github.com/maureen28/portfolio
+To use the code, clone the repo from https://github.com/maureen28/portfolio 
 
 
 ### Contactinformation
