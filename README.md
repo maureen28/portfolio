@@ -1,7 +1,7 @@
-# RESORT
+# PORTFOLIO
 
 ## Description
-Resort is a website that helps its' users find the perfect getaway spot.
+Portfolio is a webpage that helps its' users get to know me.
 
 By:*Maureen Wairimu*
 
